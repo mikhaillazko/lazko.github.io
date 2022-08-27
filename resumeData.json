@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"Lazko Mike",
+    "name":"Mike Lazko",
     "description":"I am a software engineer and I use python/C# and react to develop great products",
     "image":"profilepic.png",
     "bio":"I possess very good knowledge of software development methodology and principles. A fan of DDD. Have experience of working in medium distributed teams. I try to be self-critical and demanding of myself. I like reading technical literature.",
@@ -9,19 +9,13 @@
     "phone": "+7 (953) 924 72 83",
     "github":"https://github.com/mikhaillazko",
     "project":"https://github.com/mikhaillazko",
-    "address":{
-      "street":"",
-      "city":"Tomsk",
-      "state":"",
-      "zip": ""
-    },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://lazko-blog.herokuapp.com",
+    "resumedownload":"https://drive.google.com/file/d/1n73AcLebNFD1pUAZpwBOK3qqNsUuiwod/view?usp=sharing",
     "social":[
       {
         "name":"stackoverflow",
         "url":"https://stackoverflow.com/users/5101271/mike-lazko",
-        "className":"fa fa-twitter"
+        "className":"fa fa-stackoverflow"
       },
       {
         "name":"linkedin",
@@ -43,44 +37,46 @@
         "degree":"Engineer in management and computer science in technical systems",
         "graduated":"2012",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work":[
       {
+        "company":"Design Lab of Tomsk State University of Control Systems and Radio-electronics",
+        "title":"Junior Researcher & Software Engineer",
+        "years":"September 2010 - April 2014",
+        "description":"Development of software applications for measuring systems."
+      },
+      {
+        "company":"QuantumSoft",
+        "title":"Desktop Developer",
+        "years":"April 2014 - March 2016",
+        "description":"Development of a user interface for CAD in the oil industry."
+      },
+      {
         "company":"SupplyShift",
-        "title":"Senior Backend Developer",
+        "title":"Backend Engineer",
         "years":"March 2016 - Present",
         "description":"Decomposed monolith and start to migrate to a microservice architecture. Designed domain models from scratch using DDD practices."
       },
       {
         "company":"Interacty",
-        "title":"Full Stack Developer",
+        "title":"Full Stack Engineer",
         "years":"March 2021 - August 2022",
         "description":"Discussed requirements with customers, implemented flexible, high quality technology solutions while maintaining product vision. Provided support and mentored young developers."
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"90%"
-      },
-      {
         "name":"ReactJs",
         "level":"70%"
       },
       {
-        "name":"CSS",
-        "level":"50%"
-      },
-      {
         "name":"C#",
         "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"90%"
       },
       {
         "name":"Postgres",
@@ -92,7 +88,11 @@
       },
       {
         "name":"DDD",
-        "level":"99%"
+        "level":"95%"
+      },
+      {
+        "name":"Collaboration",
+        "level":"100%"
       }
     ]
   },

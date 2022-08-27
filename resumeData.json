@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name":"Lazko Mike",
+    "description":"I am a software engineer and I use python/C# and react to develop great products",
+    "image":"profilepic.png",
+    "bio":"I possess very good knowledge of software development methodology and principles. A fan of DDD. Have experience of working in medium distributed teams. I try to be self-critical and demanding of myself. I like reading technical literature.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "tanzorrteam@gmail.com",
+    "phone": "+7 (953) 924 72 83",
+    "github":"https://github.com/mikhaillazko",
+    "project":"https://github.com/mikhaillazko",
+    "address":{
+      "street":"",
+      "city":"Tomsk",
+      "state":"",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"stackoverflow",
+        "url":"https://stackoverflow.com/users/5101271/mike-lazko",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"www.linkedin.com/in/mikhail-lazko",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/mikhaillazko",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Tomsk State University of Control Systems and Radio-electronics",
+        "degree":"Engineer in management and computer science in technical systems",
+        "graduated":"2012",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2013",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"SupplyShift",
+        "title":"Senior Backend Developer",
+        "years":"March 2016 - Present",
+        "description":"Decomposed monolith and start to migrate to a microservice architecture. Designed domain models from scratch using DDD practices."
+      },
+      {
+        "company":"Interacty",
+        "title":"Full Stack Developer",
+        "years":"March 2021 - August 2022",
+        "description":"Discussed requirements with customers, implemented flexible, high quality technology solutions while maintaining product vision. Provided support and mentored young developers."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      },
+      {
+        "name":"C#",
+        "level":"70%"
+      },
+      {
+        "name":"Postgres",
+        "level":"80%"
+      },
+      {
+        "name":"RabbitMQ",
+        "level":"80%"
+      },
+      {
+        "name":"DDD",
+        "level":"99%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"SupplyShift",
+        "category":"Product for improve transparency of supply chain",
+        "image":"01.jpg",
+        "url":"https://supplyshift.net"
+      },
+      {
+        "title":"Interacty",
+        "category":"Product that encourages the audience to actively participate",
+        "image":"02.jpg",
+        "url":"https://interacty.me"
+      },
+      {
+        "title":"Winter",
+        "category":"Web framework for python",
+        "image":"04.jpg",
+        "url":"https://github.com/WinterFramework/winter"
+      }
+    ]
+  }
+}
